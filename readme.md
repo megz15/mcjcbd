@@ -1,0 +1,1 @@
+Wanted to try out native android app dev. This is not a professionally made application and was churned out in a short span of time without following any structure or conventions.
